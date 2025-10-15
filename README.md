@@ -3,7 +3,7 @@
 
 whenever the sh script fails at installing use this repo to launch tablet
 
-https://bioinf.hutton.ac.uk/curlywhirly/installers/curlywhirly_linux_x64_1_21_08_16.sh
+https://bioinf.hutton.ac.uk/tablet/installers/tablet_linux_x64_1_21_02_08.sh
 
 # Tablet
 cd tablet
@@ -24,5 +24,6 @@ For more information on Tablet, please visit https://ics.hutton.ac.uk/tablet whe
 ### Tablet Help
 
 For help with Tablet, including tutorials on some of its more advanced features, please visit http://tablet-jhi.readthedocs.io/en/latest/.
+
 
 
