@@ -1,9 +1,13 @@
 ![GitHub](https://img.shields.io/github/license/cropgeeks/tablet?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cropgeeks/tablet?style=flat-square)
 
+whenever the sh script fails at installing use this repo to launch tablet
+
 # Tablet
 cd tablet
+
 ant 
+
 ant run
 
 
@@ -18,3 +22,4 @@ For more information on Tablet, please visit https://ics.hutton.ac.uk/tablet whe
 ### Tablet Help
 
 For help with Tablet, including tutorials on some of its more advanced features, please visit http://tablet-jhi.readthedocs.io/en/latest/.
+
